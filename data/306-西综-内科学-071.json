@@ -1,0 +1,33 @@
+{
+  "title": "306-内科学-第四篇 第十一章 病毒性肝炎",
+  "description": "306 西综公开整理题库：内科学 / 第四篇 第十一章 病毒性肝炎。",
+  "author": "公开题库整理：zhen-1100/kaoyan-306-medical-quiz",
+  "version": "1.0",
+  "chapters": [
+    {
+      "title": "第四篇 第十一章 病毒性肝炎",
+      "questions": [
+        {
+          "id": "q_1988_16_A",
+          "title": "能用以制备乙型肝炎疫苗的是",
+          "question": "能用以制备乙型肝炎疫苗的是",
+          "options": [
+            "HbcAg",
+            "HbeAg",
+            "HbsAg",
+            "抗-HBe",
+            "抗-Hbe"
+          ],
+          "answer": "C",
+          "explanation": "乙肝疫苗是利用重组DNA技术生产的。 含有乙肝表面抗原(HBsAg)基因的质粒被转染到普通的面包酵母菌，然后产生乙肝表面抗原（C对）。 然后收获和纯化HBsAg。 这种疫苗不能引起乙肝病毒感染，因为此过程不产生潜在的感染性病毒DNA或完整病毒颗粒。",
+          "year": 1988,
+          "examNo": "16",
+          "qtype": "A",
+          "subject": "内科学",
+          "chapter": "第四篇 第十一章 病毒性肝炎",
+          "sourceFile": "内科学/第四篇 第十一章 病毒性肝炎.docx"
+        }
+      ]
+    }
+  ]
+}
